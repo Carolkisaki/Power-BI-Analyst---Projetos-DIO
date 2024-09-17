@@ -8,4 +8,4 @@ Modificar o relatório criativo (módulo 2), focando na experiência do usuário
 - Principais países em termos de vendas e/ou profit (ou outro campo)
 - Gráfico de dispersão sobre unidades vendidas e vendas por mês
 - Visuais de agrgupamentos de dados
-- Visuais de compartimentação de dados
+- Visuais de compartimento de dados
