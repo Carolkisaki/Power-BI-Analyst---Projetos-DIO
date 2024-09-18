@@ -11,4 +11,5 @@ Modificar o relatório criativo (módulo 2), focando na experiência do usuário
 - Visuais de compartimento de dados
 
 # LINKS Dashboards
+Desafio 1 - https://app.powerbi.com/view?r=eyJrIjoiYjQxNDYzZWUtODk4NS00ZGNhLTgxMGEtOTIyMmRhMTRjOWY2IiwidCI6IjZjYmI5Y2Y3LWI0YzQtNGVmZC04NjVlLWFmYzRhYWM1ZmIxYSJ9
 Desafio 2 - https://app.powerbi.com/view?r=eyJrIjoiNGY0ZWVlZTctMWVjMi00NGJlLWI2MjctMjBhYmExYTM4MjFlIiwidCI6IjZjYmI5Y2Y3LWI0YzQtNGVmZC04NjVlLWFmYzRhYWM1ZmIxYSJ9
