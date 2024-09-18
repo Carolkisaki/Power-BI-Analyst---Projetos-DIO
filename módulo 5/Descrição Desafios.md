@@ -9,3 +9,6 @@ Modificar o relatório criativo (módulo 2), focando na experiência do usuário
 - Gráfico de dispersão sobre unidades vendidas e vendas por mês
 - Visuais de agrgupamentos de dados
 - Visuais de compartimento de dados
+
+# LINKS Dashboards
+Desafio 2 - https://app.powerbi.com/view?r=eyJrIjoiNGY0ZWVlZTctMWVjMi00NGJlLWI2MjctMjBhYmExYTM4MjFlIiwidCI6IjZjYmI5Y2Y3LWI0YzQtNGVmZC04NjVlLWFmYzRhYWM1ZmIxYSJ9
