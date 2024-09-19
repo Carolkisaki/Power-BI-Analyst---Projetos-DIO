@@ -1,0 +1,16 @@
+# Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
+Utilizando o relatório do desafio do módulo anterior, o desafio é criar pelo menos dois visuais considerando a criação de parâmetros
+
+- Os parâmetros foram criados nas páginas "Principal" e "Data Analystics", nos gráficos da área e de dispersão, respectivamente, referentes às vendas, afim de que a pessoa consiga visualizar a quantidade de vendas no Trimestre, Mês e Ano,
+não somente em forma de mês como estava anteriormente.
+
+## Sobre o Relatório 
+O relatório é composto por 6 (seis) páginas: Capa, Sales Report, Detalhes de Vendas, TOP N, Data Analytics e Categorias & Clusterização:
+<p><b> 1. A página de Relatório de Vendas - Sales Report</b>: Oferece uma visão geral das vendas e do desempenho financeiro em um determinado período. Através de gráficos e KPIs principais como: Soma de Vendas, Soma de Unidades Vendidas, Soma de Descontos e Soma do Custo das Mercadorias Vendidas (COGS)</p>
+<p> Em relação aos gráficos: temos o de <b>Vendas</b> ao longo do tempo, no qual é possível detectar padrões sazonais, visualizar picos e quedas ao longo do tempo. O gráfico de <b>Vendas por Segmento</b> nos permite uma análise de quais setores estão contribuindo mais para a receita total. Enquanto que o gráfico de <b>Vendas por Produto</b> nos auxilia a identificar quais são os produtos mais lucrativos. E o gráfico de <b>Vendas por País</b> nos ajuda a entender a distribuição geográfica das vendas e a importância de cada região no desempenho</p>
+<p><b>2. Detalhes de Vendas</b>: Nessa página são analisados detalhes específicos das vendas ao longo de dois anos, com foco no período e nos produtos vendidos. A segmentação por datas e produtos nos permite analisar de maneira granular, facilitando a identificação de tendências associadas a produtos específicos. Fundamental para entender como as vendas se comportam em diferentes períodos, ou seja, essa página é crucial para o planejamento estratégico e tomada de decisão.</p>
+<p><b>3. TOP N</b>: A análise TOP N, foca no desempenho dos principais contribuintes da receita, oferece insights essenciais para a tomada de decisões. Destacando os TOP 3 países, segmentos e produtos que tiveram maior desempenho em vendas.</p>
+<p><b>4. Data Analytics</b>: Esta página explora a análise detalhada das unidades vendidas em cada período e o lucro gerado por mês, trimestre ou ano. Fornecendo uma visão analítica, os gráficos permitem identificar sazonalidades, analisar o desempenho ao longo do tempo e monitorar flutuações no lucro. Essecial para prever as tendências e ajustar a estratégia de negócios de acordo com o comportamento dos dados ao longo do tempo</p>
+<p><b>5. Categorias e Clusterização</b>: Nessa página, foram categorizados os produtos e clientes (segmentos e países) com base em características similares, como volume de vendas ou lucratividade. Essa análise é importante para identificar segmentos específicos dentro dos dados, permitindo que a empresa adapte suas estratégias para atender melhor diferentes categorias de clientes, além de detectar oportunidades de personalização.</p>
+<p></p>
+<p>O Design do relatório foi inteiramente personalizado por mim no Power Point </p>
